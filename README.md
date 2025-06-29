@@ -38,3 +38,32 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+# 📝 Blog Intern Project
+
+A full-stack blog application built using **Next.js**, **MongoDB**, and **React Quill** — developed as part of an internship assignment.
+
+---
+
+## 🚀 Features
+
+- ✍️ Create rich-text blog posts
+- 📖 View all published posts
+- ✏️ Edit existing posts
+- 🗑️ Delete posts with confirmation
+- 🔐 Admin login system (local session)
+- 🌐 API powered by MongoDB and Next.js
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **Frontend**: Next.js (App Router), React, Tailwind (optional)
+- **Backend**: Node.js (API Routes), MongoDB, Mongoose
+- **Editor**: React-Quill for rich-text editing
+- **Auth**: LocalStorage-based admin access
+- **Deployment**: [Vercel](https://vercel.com/) (recommended)
+
+---
+
+## 📂 Proj
+
